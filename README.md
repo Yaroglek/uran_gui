@@ -14,4 +14,4 @@ UranGUI - десктопное приложение с графическим и
 
 Релиз подготовлен при помощи [Launch4j](https://launch4j.sourceforge.net/).
 
-Ссылка на оригинальный [репозиторий](https://github.com/AntonKoval54/Arctic_project) проекта в рамках Проектного практикума: 
+Ссылка на оригинальный [репозиторий](https://github.com/AntonKoval54/Arctic_project) проекта в рамках Проектного практикума, 5 семестр.
